@@ -29,8 +29,7 @@
     gpg-private-key: # optional
     # Environment variable name for the GPG private key passphrase. Default is $GPG_PASSPHRASE.
     gpg-passphrase: # optional
-    
-name: Java CI with Gradle
+    name: Java CI with Gradle
 
 on:
   push:
